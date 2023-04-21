@@ -2,6 +2,7 @@
   "dependencies": {
     "ethers": "5.7.2",
     "fs": "^0.0.1-security",
-    "readline-sync": "^1.4.10"
+    "readline-sync": "^1.4.10",
+    "solc": "^0.8.19"
   }
 }
